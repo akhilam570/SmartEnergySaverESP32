@@ -4,7 +4,7 @@ SmartEnergySaverESP32 is an ESP32-based Home Automation project that optimizes p
 
 ## Features
 
-- Monitors energy consumption using a simulated energy sensor (replace with actual sensor readings).
+- Monitors energy consumption using a simulated energy sensor.
 - Automatically adjusts power consumption based on predefined energy thresholds.
 - Allows manual control via Bluetooth commands to turn devices on or off.
 
